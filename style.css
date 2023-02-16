@@ -82,6 +82,32 @@ strong {
     text-align: center;
 }
 
-.mapa p{
+.mapa p {
     padding: 0 0 2em 0;
+}
+
+/* css da seção beneficios */
+
+.conteudo_beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista_beneficios {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+}
+
+.itens {
+    padding: 0 10px 8px 0;
+}
+
+.itens::before {
+    content: "★";
+}
+
+.imagem_beneficios {
+    width: 60%;
+    margin: 0 0 0 20px;
 }
