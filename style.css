@@ -39,3 +39,39 @@ nav a:hover {
     text-decoration: underline;
     color: orange;
 }
+
+/* criando css da seção sobre a barbearia */
+
+.banner{
+    width: 100%;
+}
+
+.sobre{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.titulos{
+    text-align: center;
+    font-size: 2em;
+    padding: 2em 0 1em 0;
+    
+}
+
+.utensilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.sobre p{
+    padding: 0 0 1em 0;
+}
+
+.sobre em {
+    font-style: italic;
+}
+
+strong{
+    font-weight: bold;
+}
