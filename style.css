@@ -42,29 +42,29 @@ nav a:hover {
 
 /* criando css da seção sobre a barbearia */
 
-.banner{
+.banner {
     width: 100%;
 }
 
-.sobre{
+.sobre {
     width: 940px;
     margin: 0 auto;
 }
 
-.titulos{
+.titulos {
     text-align: center;
     font-size: 2em;
     padding: 2em 0 1em 0;
-    
+
 }
 
-.utensilios{
+.utensilios {
     width: 120px;
     float: left;
     margin: 0 20px 20px 0;
 }
 
-.sobre p{
+.sobre p {
     padding: 0 0 1em 0;
 }
 
@@ -72,6 +72,6 @@ nav a:hover {
     font-style: italic;
 }
 
-strong{
+strong {
     font-weight: bold;
 }
