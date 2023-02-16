@@ -117,3 +117,17 @@ strong {
     text-align: center;
     padding: 2em 0;
 }
+
+/* css do rodapé */
+
+footer {
+    background: url(imagens/bg.jpg);
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+}
+
+footer p {
+    font-size: 13px;
+    padding: 1em;
+}
