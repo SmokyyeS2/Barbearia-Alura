@@ -80,6 +80,7 @@ strong {
 
 .mapa {
     text-align: center;
+    background: linear-gradient(white,gray);
 }
 
 .mapa p {
@@ -87,6 +88,10 @@ strong {
 }
 
 /* css da seção beneficios */
+
+.beneficios {
+    background: gray;
+}
 
 .conteudo_beneficios {
     width: 640px;
