@@ -75,3 +75,13 @@ nav a:hover {
 strong {
     font-weight: bold;
 }
+
+/* css da seção mapa */
+
+.mapa {
+    text-align: center;
+}
+
+.mapa p{
+    padding: 0 0 2em 0;
+}
