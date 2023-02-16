@@ -110,4 +110,10 @@ strong {
 .imagem_beneficios {
     width: 60%;
     margin: 0 0 0 20px;
+    box-shadow: 10px 10px 10px;
+}
+
+.video {
+    text-align: center;
+    padding: 2em 0;
 }
