@@ -80,7 +80,7 @@ strong {
 
 .mapa {
     text-align: center;
-    background: linear-gradient(white,gray);
+    background: linear-gradient(white, gray);
 }
 
 .mapa p {
@@ -135,4 +135,52 @@ footer {
 footer p {
     font-size: 13px;
     padding: 1em;
+}
+
+/* css da pagina de produtos */
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    margin: 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+    vertical-align: top;
+    padding: 20px 0;
+}
+
+.nome_produto {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 0 0 0;
+}
+
+.descrição_produto {
+    font-size: 18px;
+    padding: 0 22px;
+}
+
+.preço_produto {
+    font-weight: bold;
+    font-size: 22px;
+    padding: 10px 0;
+}
+
+.produtos li:hover {
+    border-color: orange;
+}
+
+.produtos li:hover h1 {
+    font-size: 35px;
+}
+
+.produtos li:active {
+    border-color: green;
 }
